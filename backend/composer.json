@@ -1,0 +1,20 @@
+{
+    "name": "exorgroup/bublfizz",
+    "description": "Enhanced Social Interaction",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^3.9",
+        "firebase/php-jwt": "^6.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "Exorgroup\\Bublfizz\\": "classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "exorgroup",
+            "email": "duncan.dimech@exorgroup.com"
+        }
+    ]
+}

@@ -92,7 +92,7 @@ npm install primevue bootstrap
 ```bash
 cd backend
 composer init
-composer require monolog/monolog
+composer require monolog/monolog firebase/php-jwt
 ```
 
 ## Development Workflow
